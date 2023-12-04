@@ -1,2 +1,3 @@
-Title: MERN: Book Search Engine
+Title: MERN Book Search Engine
 
+Description:
