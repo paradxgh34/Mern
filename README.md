@@ -10,4 +10,4 @@ Contribution Guidelines:
 
 Testing Instructions:
 
-Link to URJ:
+Link to URL:
