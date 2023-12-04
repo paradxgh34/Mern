@@ -6,7 +6,8 @@ Installation:
 
 Usage:
 
-Contribution Guidelines:
+Contribution Guidelines: Github / MDN web documents.
+
 
 Testing Instructions:
 
