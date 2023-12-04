@@ -4,11 +4,11 @@ Description:  Take starter code with a fully functioning Google Books API search
 
 Installation: Take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL
 
-Usage:
+Usage: Take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL
 
 Contribution Guidelines: Github / MDN web documents.
 
 
-Testing Instructions:
+Testing Instructions: N/A
 
 Link to URL:
