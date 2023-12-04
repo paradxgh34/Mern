@@ -8,4 +8,4 @@ Usage:
 
 Contribution Guidelines:
 
-TEsting Instructions:
+Testing Instructions:
