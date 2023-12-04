@@ -4,4 +4,4 @@ Description:
 
 Installation:
 
-Usagea:
+Usage:
