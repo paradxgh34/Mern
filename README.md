@@ -1,6 +1,6 @@
 Title: MERN Book Search Engine
 
-Description:
+Description:  Take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL
 
 Installation:
 
